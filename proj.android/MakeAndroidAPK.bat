@@ -5,8 +5,8 @@ Set android_buildtool_dir=%android_sdk_dir%\build-tools\19.1.0\
 @Set android_tool_dir=%android_sdk_dir%\tools\
 @set PC_SDK_ROOT=%~dp0..\..\..\
 @Set bin_dir=%PC_SDK_ROOT%bin\
-@Set apk_file_name=haqi.apk
-@Set apk_final_filename=haqi.final.apk
+@Set apk_file_name=haqiteen.apk
+@Set apk_final_filename=haqiteen.final.apk
 
 @call SyncFiles.bat
 
